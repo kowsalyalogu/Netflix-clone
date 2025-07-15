@@ -10,3 +10,13 @@ body
     background-color: black;
     color:aliceblue;
 }
+.header
+{
+    width:100%;
+    height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/header-image.png);
+    background-size: cover;
+    background-position: center;
+    padding:1opx 8%;
+    position:relative;
+}
